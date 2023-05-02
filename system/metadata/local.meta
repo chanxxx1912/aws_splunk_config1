@@ -1,0 +1,19 @@
+[server/sslConfig]
+version = 9.0.4.1
+modtime = 1682991866.394174000
+
+[server/general]
+version = 9.0.4.1
+modtime = 1682991972.351151000
+
+[server/lmpool%3Aauto_generated_pool_download-trial]
+version = 9.0.4.1
+modtime = 1682991972.365275000
+
+[server/lmpool%3Aauto_generated_pool_forwarder]
+version = 9.0.4.1
+modtime = 1682991972.367434000
+
+[server/lmpool%3Aauto_generated_pool_free]
+version = 9.0.4.1
+modtime = 1682991972.369616000

@@ -1,0 +1,11 @@
+sid,search,"splunk_server","_time","is_realtime","__mv_sid","__mv_search","__mv_splunk_server","__mv__time","__mv_is_realtime"
+"1682992801.2","| rest splunk_server=local services/server/info","ip-172-31-17-231","1682992801.737069",0,,,,,
+"1682992801.3","| rest splunk_server=local services/server/info","ip-172-31-17-231","1682992801.788083",0,,,,,
+"1682992801.4","| rest splunk_server=local services/server/info","ip-172-31-17-231","1682992801.838318",0,,,,,
+"1682992801.5","| rest splunk_server=local services/server/info","ip-172-31-17-231","1682992801.888561",0,,,,,
+"1682992802.6","| rest splunk_server=local services/server/info","ip-172-31-17-231","1682992802.039382",0,,,,,
+"1682992802.7","| rest services/server/info | sort splunk_server","ip-172-31-17-231","1682992802.592340",0,,,,,
+"1682992802.8","| rest services/server/info | sort splunk_server","ip-172-31-17-231","1682992802.692780",0,,,,,
+"1682992802.9","| rest services/server/info | sort splunk_server","ip-172-31-17-231","1682992802.743056",0,,,,,
+"1682992802.10","| rest services/server/info | sort splunk_server","ip-172-31-17-231","1682992802.793290",0,,,,,
+"1682992802.11","| rest services/server/info | sort splunk_server","ip-172-31-17-231","1682992802.944071",0,,,,,

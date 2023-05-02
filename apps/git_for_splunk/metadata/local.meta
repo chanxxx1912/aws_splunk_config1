@@ -1,0 +1,8 @@
+[app/install/install_source_checksum]
+version = 9.0.4.1
+modtime = 1682993394.715539000
+
+[inputs/gitforsplunk%3A%2F%2Ftestinput1]
+owner = qantasuser
+version = 9.0.4.1
+modtime = 1682994436.408273000
